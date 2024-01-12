@@ -4,7 +4,7 @@ class Config{
     public $HOSTNAME = "127.0.0.1";
     public $USERNAME = "root";
     public $PASSWORD = "";
-    public $DATABASE_NAME = "";
+    public $DATABASE_NAME = "php3";
     public $con_res;
 
     public function Connect(){
